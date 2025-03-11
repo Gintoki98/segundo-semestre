@@ -1,0 +1,1 @@
+Relacione un análisis conceptual de los términos "almacenamiento", "conservación" y "preservación" de diferentes autores.
