@@ -4,3 +4,6 @@
 [LIBRO EVALUACIÓN.pdf](https://t.me/FCOM_CI_4to/27)
 
 ### Clases
+
+### Tareas
+1. [[Tarea No.1 EFSO]]
