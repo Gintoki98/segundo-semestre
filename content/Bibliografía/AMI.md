@@ -1,1 +1,27 @@
-asda
+# Alfabetización Mediática Informacional
+
+### [Bibliografía](https://evea.uh.cu/mod/folder/view.php?id=25283) 
+1. [ALFONSO,2016.pdf](https://t.me/FCOM_CI_4to/13)
+2. [ARTILES, 2000.pdf](https://t.me/FCOM_CI_4to/14)
+3. [BRUCE, 2008.pdf](https://t.me/FCOM_CI_4to/15)
+4. [CORTÉS-VERA, 2019.pdf](https://t.me/FCOM_CI_4to/17)
+5. [DECLARACIÓN ALEJANDRÍA,2005.pdf](https://t.me/FCOM_CI_4to/18)
+6. [DECLARACIÓN LIMA,2009.pdf](https://t.me/FCOM_CI_4to/19)
+7. [DECLARACIÓN PRAGA, 2003.pdf](https://t.me/FCOM_CI_4to/20)
+8. [DECLARACIÓN TOLEDO, 2006.pdf](https://t.me/FCOM_CI_4to/21)
+9. [FERNÁNDEZ, 2013.pdf](https://t.me/FCOM_CI_4to/22)
+10. [GÓMEZ, 2010.pdf](https://t.me/FCOM_CI_4to/23)
+11. [GONZÁLEZ, 2015.pdf](https://t.me/FCOM_CI_4to/24)
+12. [HORTON, 2007.pdf](https://t.me/FCOM_CI_4to/25)
+13. [LAU, 2007.pdf](https://t.me/FCOM_CI_4to/3)
+14. [MARTÍ, 2003.pdf](https://t.me/FCOM_CI_4to/4)
+15. [MENESES, 2009.pdf](https://t.me/FCOM_CI_4to/5)
+16. [MENESES, 2010.pdf](https://t.me/FCOM_CI_4to/6)
+17. [MOORE.pdf](https://t.me/FCOM_CI_4to/7)
+18. [PONJUÁN, 2015.pdf](https://t.me/FCOM_CI_4to/8)
+19. [SÁNCHEZ, 2010.pdf](https://t.me/FCOM_CI_4to/9)
+20. [UNESCO SOC CONOCIMIENTO.pdf](https://t.me/FCOM_CI_4to/10)
+21. [URIBE,2013.pdf](https://t.me/FCOM_CI_4to/11)
+
+### Clases
+1. [Clase 1 Tema 1 Alfin.pdf](https://t.me/FCOM_CI_4to/16)

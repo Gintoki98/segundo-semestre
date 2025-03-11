@@ -1,7 +1,6 @@
-[[content/Bibliografía/EFSO/LIBRO-EVALUACIÓN.pdf|LIBRO-EVALUACIÓN]]
+# Evaluación de Fuentes, Servicios y Organizaciones de Información
 
-Este es el libro de EFSO
-.
-.
-.
-![[content/Bibliografía/EFSO/LIBRO-EVALUACIÓN.pdf]]
+### Bibliografía 
+[LIBRO EVALUACIÓN.pdf](https://t.me/FCOM_CI_4to/27)
+
+### Clases
