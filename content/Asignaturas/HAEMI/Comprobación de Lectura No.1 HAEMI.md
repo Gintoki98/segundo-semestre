@@ -1,1 +1,1 @@
-Artículo de Anglada, L. y Abadal, E. (2018) y de Martínez, A. (2009). A evaluar el próximo encuentro
+Artículo de [Anglada, L. y Abadal, E. (2018)](https://t.me/FCOM_CI_4to/45) y de [Martínez, A. (2009)](https://t.me/FCOM_CI_4to/44). A evaluar el próximo encuentro
