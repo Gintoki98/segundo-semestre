@@ -46,10 +46,13 @@
 	6. [VARGAS, B. (2005).pdf](https://t.me/FCOM_CI_4to/77)
 ### Clases
 [Clase 1 HAEMI.pdf](https://t.me/FCOM_CI_4to/29)
+[Clase 2 HAEMI.pdf](https://t.me/FCOM_CI_4to/79)
 
 ### Tareas
 1. [[Comprobación de Lectura No.1 HAEMI]]
 2. [[Tarea No.1 HAEMI]]
+3. [[Comprobación de Lectura No.2 HAEMI]]
+4. [[Tarea No.2 HAEMI]]
 #### Material de Apoyo
 1. [Ejemplo Póster](https://t.me/FCOM_CI_4to/31?single) 
 2. [Orientaciones para elaborar el Informe Bibliométrico](https://t.me/FCOM_CI_4to/32?single)

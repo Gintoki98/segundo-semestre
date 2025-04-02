@@ -1,0 +1,1 @@
+Artículo de [Abadal (2018)](https://t.me/FCOM_CI_4to/68). A evaluar el próximo encuentro
