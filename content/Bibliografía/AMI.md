@@ -1,6 +1,6 @@
 # Alfabetización Mediática Informacional
 
-### [Bibliografía](https://evea.uh.cu/mod/folder/view.php?id=25283) 
+### [Bibliografía Tema 1](https://evea.uh.cu/mod/folder/view.php?id=25283) 
 1. [ALFONSO,2016.pdf](https://t.me/FCOM_CI_4to/13) [EVEA](https://evea.uh.cu/pluginfile.php/153797/mod_folder/content/0/ALFONSO%2C2016.pdf?forcedownload=1)
 2. [ARTILES, 2000.pdf](https://t.me/FCOM_CI_4to/14) [EVEA](https://evea.uh.cu/pluginfile.php/153797/mod_folder/content/0/ARTILES%2C%202000.pdf?forcedownload=1)
 3. [BRUCE, 2008.pdf](https://t.me/FCOM_CI_4to/15) [EVEA](https://evea.uh.cu/pluginfile.php/153797/mod_folder/content/0/BRUCE%2C%202008.pdf?forcedownload=1)
@@ -24,8 +24,21 @@
 21. [UNESCO SOC CONOCIMIENTO.pdf](https://t.me/FCOM_CI_4to/10) [EVEA](https://evea.uh.cu/pluginfile.php/153797/mod_folder/content/0/UNESCO%20SOC%20CONOCIMIENTO.pdf?forcedownload=1)
 22. [URIBE,2013.pdf](https://t.me/FCOM_CI_4to/11) [EVEA](https://evea.uh.cu/pluginfile.php/153797/mod_folder/content/0/URIBE%2C2013.pdf?forcedownload=1)
 
+### [Bibliografía Tema 2](https://evea.uh.cu/mod/folder/view.php?id=25288)
+1. [ALONSO-ARÉVALO, 2016](https://t.me/FCOM_CI_4to/80) [EVEA](https://evea.uh.cu/pluginfile.php/153803/mod_folder/content/0/ALONSO-AR%C3%89VALO%2C%202016.pdf?forcedownload=1)
+2. [FERNÁNDEZ, 2017](https://t.me/FCOM_CI_4to/81) [EVEA](https://evea.uh.cu/pluginfile.php/153803/mod_folder/content/0/FERN%C3%81NDEZ%2C%202017.pdf?forcedownload=1)
+3. [FRIAS, 2015](https://t.me/FCOM_CI_4to/82) [EVEA](https://evea.uh.cu/pluginfile.php/153803/mod_folder/content/0/FRIAS%2C%202015.pdf?forcedownload=1)
+4. [FRíAS, 2015](https://t.me/FCOM_CI_4to/83) [EVEA](https://evea.uh.cu/pluginfile.php/153803/mod_folder/content/0/FR%C3%8FAS%2C%202015.pdf?forcedownload=1)
+5. [FRíAS, 2016](https://t.me/FCOM_CI_4to/84) [EVEA](https://evea.uh.cu/pluginfile.php/153803/mod_folder/content/0/FR%C3%8DAS%2C%202016.pdf?forcedownload=1)
+6. [GONZÁLEZ, 2015](https://t.me/FCOM_CI_4to/85) [EVEA](https://evea.uh.cu/pluginfile.php/153803/mod_folder/content/0/GONZ%C3%81LEZ%2C%202015.pdf?forcedownload=1)
+7. [LEE, 2014](https://t.me/FCOM_CI_4to/86) [EVEA](https://evea.uh.cu/pluginfile.php/153803/mod_folder/content/0/LEE%2C%202014.pdf?forcedownload=1)
+8. [MORALES, 2018](https://t.me/FCOM_CI_4to/87) [EVEA](https://evea.uh.cu/pluginfile.php/153803/mod_folder/content/0/MORALES%2C%202018.pdf?forcedownload=1)
+9. [UNESCO, 2011](https://t.me/FCOM_CI_4to/88) [EVEA](https://evea.uh.cu/pluginfile.php/153803/mod_folder/content/0/UNESCO%2C%202011.PDF?forcedownload=1)
+10. [WILSON, 2012](https://t.me/FCOM_CI_4to/89) [EVEA](https://evea.uh.cu/pluginfile.php/153803/mod_folder/content/0/WILSON%2C%202012.pdf?forcedownload=1)
 ### Clases
 1. [Clase 1 Tema 1 Alfin.pdf](https://t.me/FCOM_CI_4to/16) [EVEA](https://evea.uh.cu/mod/resource/view.php?id=171360)
+2. [Clase 3 Tema 2.pdf](https://t.me/FCOM_CI_4to/91) [EVEA](https://evea.uh.cu/mod/resource/view.php?id=172008)
 
 ### Tareas
 1. [[Seminario No.1 AMI]]
+2. [[Tarea No.2 AMI]]

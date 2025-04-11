@@ -47,12 +47,16 @@
 ### Clases
 [Clase 1 HAEMI.pdf](https://t.me/FCOM_CI_4to/29)
 [Clase 2 HAEMI.pdf](https://t.me/FCOM_CI_4to/79)
+[Clase 3 HAEMI.pdf](https://t.me/FCOM_CI_4to/98) [Reducido](https://t.me/FCOM_CI_4to/97)
 
 ### Tareas
 1. [[Comprobación de Lectura No.1 HAEMI]]
 2. [[Tarea No.1 HAEMI]]
 3. [[Comprobación de Lectura No.2 HAEMI]]
 4. [[Tarea No.2 HAEMI]]
+5. [[Comprobación de Lectura No.3 HAEMI]]
+6. [[Evaluación Final HAEMI]]
+7. [[Seminario HAEMI 24-5-2025]]
 #### Material de Apoyo
 1. [Ejemplo Póster](https://t.me/FCOM_CI_4to/31?single) 
 2. [Orientaciones para elaborar el Informe Bibliométrico](https://t.me/FCOM_CI_4to/32?single)

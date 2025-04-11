@@ -1,0 +1,1 @@
+Leer el Capítulo 1 del libro [GONZALEZ, L. (2022).pdf](). A evaluar el próximo encuentro.
