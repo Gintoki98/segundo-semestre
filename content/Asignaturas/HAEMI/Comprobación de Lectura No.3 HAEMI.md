@@ -1,1 +1,1 @@
-Leer el Capítulo 1 del libro [GONZALEZ, L. (2022).pdf](). A evaluar el próximo encuentro.
+Leer el Capítulo 1 del libro [GONZALEZ, L. (2022).pdf](https://t.me/FCOM_CI_4to/73). A evaluar el próximo encuentro.
