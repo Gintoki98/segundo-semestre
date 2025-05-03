@@ -1,0 +1,1 @@
+Para el sábado 10/05/2025 llevar al aula lo que se tenga hecho del informe de HAEMI para conferenciar con la profe dudas que se tengan sobre este o hacer una revisión, esencialmente de la normalización y la elaboración de los mapas.

@@ -18,3 +18,10 @@ Orientaciones encuentro No.3 5/4/2025
 3. [[Comprobación de Lectura No.3 HAEMI]]
 4. [[Seminario HAEMI 24-5-2025]] *(a completar la orden)
 5. [[Evaluación Final HAEMI]] *(a completar la orden)
+
+Orientaciones encuentro No.4 26/4/2025
+1. [[Intrasemestral AMI]]
+2. [[Seminario No.2 AMI]] (para el 7/6/2025 Última Clase, solo exposición)
+3. [[Seminario No.1 ACP]]
+4. [[HAEMI Avances del Informe]]
+5. [[Lectura EFSO]] (No evaluativa)

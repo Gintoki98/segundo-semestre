@@ -1,0 +1,1 @@
+Leer de la página 43 a la 51 del libro de texto Libro Evaluación
