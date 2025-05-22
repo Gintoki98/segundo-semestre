@@ -25,3 +25,7 @@ Orientaciones encuentro No.4 26/4/2025
 3. [[Seminario No.1 ACP]]
 4. [[HAEMI Avances del Informe]]
 5. [[Lectura EFSO]] (No evaluativa)
+
+Orientaciones encuentro No.4 10/5/2025
+1. [[Seminario HAEMI 24-5-2025]]
+2. [[Tarea No.3 ACP]]
